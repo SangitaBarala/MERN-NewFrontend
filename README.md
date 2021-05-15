@@ -25,27 +25,45 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `project core dependencies to proceed`
 dependencies: 
     npm i @emotion/react
+    
     npm i @emotion/styled
+    
     npm i@material-ui/core
+    
     npm i @material-ui/icons
+    
     npm i axios
+    
     npm i bootstrap
+    
     npm i react-bootstrap
+    
     npm i moment
+    
     npm i react-confirm-alert
+    
     npm i react-dom
+    
     npm i react-file-base64
+    
     npm i react-redux
+    
     npm i react-scripts
+    
     npm i redux
+    
     npm i redux-thunk
     
 ### `Design part`
 To make Project frontend more beautiful and interactive you can use:
 [@material-ui/core libarary](https://www.npmjs.com/package/@material-ui/core)
+
 [react-bootstrap](https://react-bootstrap.github.io/)
+
 [react-confirm alerts](https://react-bootstrap.github.io/)
+
 [moment-time-updater](https://www.npmjs.com/package/moment)
+
 
 ### `Final presentation`
 -You can see all the CRUD operations in action where you can craete a card to store your memory or happy moment 
