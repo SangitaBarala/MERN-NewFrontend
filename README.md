@@ -91,7 +91,7 @@ To make Project frontend more beautiful and interactive you can use:
 
 -and finally can delete it if want
 
--and fun part it is connected to database to store the changes altogether
+-and fun part it is connected to [Mongoose Atlas](https://www.mongodb.com/) database to store the changes altogether.
 
 
 ### `npm run eject`
