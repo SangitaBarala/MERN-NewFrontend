@@ -1,4 +1,8 @@
-#About
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About Project
 
 By following this project readme.md you will be able to create a basic memory card or a card where you are storing your specific happy moment through a Form 
 
@@ -16,10 +20,6 @@ that will ask you to enter:
 
 -Finally, the SUBMIT and CLEAR button to perform action accordingly
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm init -y`
 It will start with a fundamental description of project
