@@ -24,31 +24,36 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `project core dependencies to proceed`
 dependencies: 
-    "@emotion/react": "^11.4.0",
-    "@emotion/styled": "^11.3.0",
-    "@material-ui/core": "^5.0.0-alpha.33",
-    "@material-ui/icons": "^4.11.2",
-    "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.6",
-    "@testing-library/user-event": "^12.8.3",
-    "axios": "^0.21.1",
-    "bootstrap": "^5.0.0",
-    "moment": "^2.29.1",
-    "react": "^17.0.2",
-    "react-bootstrap": "^1.6.0",
-    "react-confirm-alert": "^2.7.0",
-    "react-dom": "^17.0.2",
-    "react-file-base64": "^1.0.3",
-    "react-redux": "^7.2.4",
-    "react-scripts": "4.0.3",
-    "redux": "^4.1.0",
-    "redux-thunk": "^2.3.0"
+    npm i @emotion/react
+    npm i @emotion/styled
+    npm i@material-ui/core
+    npm i @material-ui/icons
+    npm i axios
+    npm i bootstrap
+    npm i react-bootstrap
+    npm i moment
+    npm i react-confirm-alert
+    npm i react-dom
+    npm i react-file-base64
+    npm i react-redux
+    npm i react-scripts
+    npm i redux
+    npm i redux-thunk
     
 ### `Design part`
 To make Project frontend more beautiful and interactive you can use:
-*[@material-ui/core libarary](https://www.npmjs.com/package/@material-ui/core)
-*[react-bootstrap]
-*[react-confirm alerts]
+[@material-ui/core libarary](https://www.npmjs.com/package/@material-ui/core)
+[react-bootstrap](https://react-bootstrap.github.io/)
+[react-confirm alerts](https://react-bootstrap.github.io/)
+[moment-time-updater](https://www.npmjs.com/package/moment)
+
+### `Final presentation`
+-You can see all the CRUD operations in action where you can craete a card to store your memory or happy moment 
+-you can also like it update it by clicing three dots in top-right corner of card 
+-and finally can delete it if want
+
+-and fun part it is connected to database to store the changes altogether
+
 
 ### `npm run eject`
 
