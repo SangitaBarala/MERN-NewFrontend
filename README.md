@@ -1,3 +1,21 @@
+#About
+By following this project readme.md you will be able to create a basic memory card or a card where you are storing your specific happy moment through a Form 
+
+that will ask you to enter:
+
+-Creator name
+
+-Title
+
+-Message(description of your story)
+
+-Tags
+
+-You can choose an image for that memory
+
+-Finally, the SUBMIT and CLEAR button to perform action accordingly
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,7 +25,7 @@ It will start with a fundamental description of project
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run
 
 ### `npm start`
 
@@ -67,7 +85,9 @@ To make Project frontend more beautiful and interactive you can use:
 
 ### `Final presentation`
 -You can see all the CRUD operations in action where you can craete a card to store your memory or happy moment 
+
 -you can also like it update it by clicing three dots in top-right corner of card 
+
 -and finally can delete it if want
 
 -and fun part it is connected to database to store the changes altogether
