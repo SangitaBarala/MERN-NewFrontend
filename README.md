@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React Frontend App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -93,6 +93,10 @@ To make Project frontend more beautiful and interactive you can use:
 
 -and fun part it is connected to [Mongoose Atlas](https://www.mongodb.com/) database to store the changes altogether.
 
+### `Project Frontend Deployment`
+The project frontend is deployed using [AWS(Amazon Web Service)](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) portal where you can have access to ocean amount of services provided by Amazon.
+
+You can have access to [Project Frontend](https://master.dllyhejvocz7s.amplifyapp.com/)
 
 ### `npm run eject`
 
